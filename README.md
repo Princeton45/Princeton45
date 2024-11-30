@@ -3,7 +3,7 @@
 <h2>👨‍💻 Devops/Cloud Engineering Projects:</h2>
 
 - <b>Serverless Architecture</b>
-  - [DevOps Cloud Resume Challenge (Serverless AWS resume website showcasing cloud architecture & DevOps skills)](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [DevOps Cloud Resume Challenge (Serverless AWS resume website showcasing cloud architecture & DevOps skills)](https://github.com/Princeton45/DevOps-Cloud-Resume-Challenge)
   
 <h2> 🤳 Connect with me:</h2>
 
