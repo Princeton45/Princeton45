@@ -1,6 +1,6 @@
 <h1>Hi, I'm Princeton! <br/><a href="https://github.com/Princeton45">DevOps & Cloud Engineer</a>, <a href="https://www.linkedin.com/in/princetona/">DevSecOps Enthusiast</a>
 
-<h2>👨‍💻 Devops/Cloud Engineering Projects:</h2>
+<h2>☁︎ Devops/Cloud Engineering Projects:</h2>
 
 - <b>Serverless Architecture</b>
   - [DevOps Cloud Resume Challenge (Serverless AWS resume website showcasing cloud architecture & DevOps skills)](https://github.com/Princeton45/DevOps-Cloud-Resume-Challenge)
