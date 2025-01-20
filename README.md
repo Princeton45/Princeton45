@@ -4,6 +4,9 @@
 
 - <b>Serverless Architecture</b>
   - [DevOps Cloud Resume Challenge (Serverless AWS resume website showcasing cloud architecture & DevOps skills)](https://github.com/Princeton45/DevOps-Cloud-Resume-Challenge)
+ 
+- <b>Kubernetes</b>
+  - [Containerized E-commerce App on Kubernetes (AWS EKS) with CI/CD](https://github.com/Princeton45/Kubernetes-Resume-Challenge)
   
 <h2> 🤳 Connect with me:</h2>
 
