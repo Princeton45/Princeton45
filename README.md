@@ -7,6 +7,11 @@
  
 - <b>Kubernetes</b>
   - [Containerized E-commerce App on Kubernetes (AWS EKS) with CI/CD](https://github.com/Princeton45/Kubernetes-Resume-Challenge)
+    
+- <b>Nexus Artifact Repository</b>
+  - [Running Nexus on Droplet and Publishing Artifact to Nexus](https://github.com/Princeton45/nexus-droplet-setup)
+
+
   
 <h2> 🤳 Connect with me:</h2>
 
