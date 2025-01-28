@@ -5,11 +5,15 @@
 - <b>Serverless Architecture</b>
   - [DevOps Cloud Resume Challenge (Serverless AWS resume website showcasing cloud architecture & DevOps skills)](https://github.com/Princeton45/DevOps-Cloud-Resume-Challenge)
  
-- <b>Kubernetes</b>
+- <b>Kubernetes on AWS - EKS</b>
   - [Containerized E-commerce App on Kubernetes (AWS EKS) with CI/CD](https://github.com/Princeton45/Kubernetes-Resume-Challenge)
     
-- <b>Nexus Artifact Repository</b>
+- <b>Artifact Repository Manager with Nexus</b>
   - [Running Nexus on Droplet and Publishing Artifact to Nexus](https://github.com/Princeton45/nexus-droplet-setup)
+  - [Docker Repository on Nexus and Pushing to it](https://github.com/Princeton45/nexus-docker-repo-setup)
+  - [Deploying Nexus as a Docker Container on DigitalOcean](https://github.com/Princeton45/nexus-docker-container)
+
+
 
 
   
