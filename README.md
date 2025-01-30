@@ -12,6 +12,10 @@
   - [Running Nexus on Droplet and Publishing Artifact to Nexus](https://github.com/Princeton45/nexus-droplet-setup)
   - [Docker Repository on Nexus and Pushing to it](https://github.com/Princeton45/nexus-docker-repo-setup)
   - [Deploying Nexus as a Docker Container on DigitalOcean](https://github.com/Princeton45/nexus-docker-container)
+    
+- <b>CI/CD with Jenkins</b>
+  - [Jenkins CI: Freestyle vs Pipeline vs Multibranch Comparison](https://github.com/Princeton45/jenkins-multi-pipeline)
+
 
 
 
