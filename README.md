@@ -15,6 +15,10 @@
     
 - <b>CI/CD with Jenkins</b>
   - [Jenkins CI: Freestyle vs Pipeline vs Multibranch Comparison](https://github.com/Princeton45/jenkins-multi-pipeline)
+  - [Setting up a Jenkins shared library](https://github.com/Princeton45/jenkins-shared-library)
+  - [Auto-Triggered Jenkins Pipeline via GitHub Webhooks](https://github.com/Princeton45/jenkins-webhooks-trigger)
+  - [Dynamically Incrementing Application Version in a Jenkins Pipeline](https://github.com/Princeton45/jenkins-dynamic-versioning)
+
 
 
 
