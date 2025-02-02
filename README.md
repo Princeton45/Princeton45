@@ -20,6 +20,8 @@
   - [Dynamically Incrementing Application Version in a Jenkins Pipeline](https://github.com/Princeton45/jenkins-dynamic-versioning)
  
 - <b>AWS Services + CI/CD with Jenkins</b>
+  - [Complete CI/CD Pipeline with Jenkins, Docker, and AWS EC2](https://github.com/Princeton45/jenkins-docker-ec2-cicd)
+
 
 
 
