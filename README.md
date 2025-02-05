@@ -7,6 +7,9 @@
  
 - <b>Kubernetes on AWS - EKS</b>
   - [Containerized E-commerce App on Kubernetes (AWS EKS) with CI/CD](https://github.com/Princeton45/Kubernetes-Resume-Challenge)
+
+- <b>Container Orchestration with Kubernetes</b>
+  - [MongoDB + Mongo Express on Minikube](https://github.com/Princeton45/k8s-mongodb-express-local)
     
 - <b>Artifact Repository Manager with Nexus</b>
   - [Running Nexus on Droplet and Publishing Artifact to Nexus](https://github.com/Princeton45/nexus-droplet-setup)
