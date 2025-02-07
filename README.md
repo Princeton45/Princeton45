@@ -10,7 +10,10 @@
 
 - <b>Container Orchestration with Kubernetes</b>
   - [MongoDB + Mongo Express on Minikube](https://github.com/Princeton45/k8s-mongodb-express-local)
-    
+
+- <b>Kubernetes + Helm</b>
+  - [Deploying MongoDB with Mongo Express on Linode Kubernetes Engine (LKE) with Helm](https://github.com/Princeton45/kubernetes-mongodb-helm)
+
 - <b>Artifact Repository Manager with Nexus</b>
   - [Running Nexus on Droplet and Publishing Artifact to Nexus](https://github.com/Princeton45/nexus-droplet-setup)
   - [Docker Repository on Nexus and Pushing to it](https://github.com/Princeton45/nexus-docker-repo-setup)
