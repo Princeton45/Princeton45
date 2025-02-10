@@ -12,6 +12,7 @@
   - [MongoDB + Mongo Express on Minikube](https://github.com/Princeton45/k8s-mongodb-express-local)
 
 - <b>Kubernetes + Helm</b>
+  - [Microservices Deployment with Kubernetes and Helm](https://github.com/Princeton45/microservices-helm-deployment1)
   - [Deploying MongoDB & Mongo Express with Helm on Linode Kubernetes Engine (LKE)](https://github.com/Princeton45/kubernetes-mongodb-helm)
 
 - <b>Artifact Repository Manager with Nexus</b>
