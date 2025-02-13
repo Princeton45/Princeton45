@@ -6,6 +6,7 @@
   - [DevOps Cloud Resume Challenge (Serverless AWS resume website showcasing cloud architecture & DevOps skills)](https://github.com/Princeton45/DevOps-Cloud-Resume-Challenge)
  
 - <b>Kubernetes on AWS - EKS</b>
+  - [Complete CI/CD Pipeline with EKS and AWS ECR](https://github.com/Princeton45/eks-ecr-complete-pipeline)
   - [Containerized E-commerce App on Kubernetes (AWS EKS) with CI/CD](https://github.com/Princeton45/Kubernetes-Resume-Challenge)
 
 - <b>Container Orchestration with Kubernetes</b>
