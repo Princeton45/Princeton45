@@ -9,6 +9,9 @@
   - [Complete CI/CD Pipeline with EKS and AWS ECR](https://github.com/Princeton45/eks-ecr-complete-pipeline)
   - [Containerized E-commerce App on Kubernetes (AWS EKS) with CI/CD](https://github.com/Princeton45/Kubernetes-Resume-Challenge)
 
+- <b>Infrastructure as Code (IaC) with Terraform</b>
+  - [Automating AWS Infrastructure with Terraform](https://github.com/Princeton45/terraform-aws-infrastructure?tab=readme-ov-file)
+
 - <b>Container Orchestration with Kubernetes</b>
   - [MongoDB + Mongo Express on Minikube](https://github.com/Princeton45/k8s-mongodb-express-local)
 
