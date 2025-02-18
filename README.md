@@ -8,8 +8,10 @@
 - <b>Kubernetes on AWS - EKS</b>
   - [Complete CI/CD Pipeline with EKS and AWS ECR](https://github.com/Princeton45/eks-ecr-complete-pipeline)
   - [Containerized E-commerce App on Kubernetes (AWS EKS) with CI/CD](https://github.com/Princeton45/Kubernetes-Resume-Challenge)
-  
+  Complete CI/CD Pipeline with Terraform
+
 - <b>Infrastructure as Code (IaC) with Terraform</b>
+  - [Complete CI/CD Pipeline with Terraform](https://github.com/Princeton45/terraform-complete-cicd)
   - [Automated provisioning AWS EKS cluster with Terraform](https://github.com/Princeton45/terraform-aws-eks-cluster)
   - [Automating AWS Infrastructure with Terraform](https://github.com/Princeton45/terraform-aws-infrastructure?tab=readme-ov-file)
 
