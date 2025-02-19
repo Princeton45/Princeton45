@@ -1,4 +1,4 @@
-<h1>Hi, I'm Princeton! Linux, Devops, DevSecOps, Cloud & Cloud Security Enthusiast</a>
+<h1>Hi, I'm Princeton! I am a Linux, Devops, DevSecOps, Cloud & Cloud Security Enthusiast.</a>
 
 <h2>☁︎ Devops/Cloud Engineering Projects:</h2>
 
