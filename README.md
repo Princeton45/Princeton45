@@ -37,6 +37,7 @@
   - [CD - Deploying to AWS EKS (Kubernetes) Cluster via Jenkins Pipeline](https://github.com/Princeton45/jenkins-eks-cd-pipeline)
  
 - <b>Python Automation</b>
+  - [Automating displaying EKS cluster information](https://github.com/Princeton45/python-eks-monitor)
   - [Health Check: EC2 Status Checks](https://github.com/Princeton45/ec2-health-check)
   - [EC2 Instance Tag Automation](https://github.com/Princeton45/ec2-tag-automation)
   
