@@ -40,7 +40,6 @@
   - [Automating displaying EKS cluster information](https://github.com/Princeton45/python-eks-monitor)
   - [Health Check: EC2 Status Checks](https://github.com/Princeton45/ec2-health-check)
   - [Data Backup & Restore for AWS EC2 Volumes](https://github.com/Princeton45/data-backup-restore-python)
-
   - [EC2 Instance Tag Automation](https://github.com/Princeton45/ec2-tag-automation)
   
 <h2> 🤳 Connect with me:</h2>
