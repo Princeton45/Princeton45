@@ -38,15 +38,7 @@
  
 - <b>Python Automation</b>
   - [Health Check: EC2 Status Checks](https://github.com/Princeton45/ec2-health-check)
-
-
-
-
-
-
-
-
-
+  - [EC2 Instance Tag Automation](https://github.com/Princeton45/ec2-tag-automation)
   
 <h2> 🤳 Connect with me:</h2>
 
