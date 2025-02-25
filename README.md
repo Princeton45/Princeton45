@@ -37,9 +37,8 @@
   - [CD - Deploying to AWS EKS (Kubernetes) Cluster via Jenkins Pipeline](https://github.com/Princeton45/jenkins-eks-cd-pipeline)
  
 - <b>Configuration Management with Ansible</b>
-
-
- 
+  - [Automating Node.js Application Deployment](https://github.com/Princeton45/nodejs-ansible-deploy)
+    
 - <b>Python Automation</b>
   - [Website Monitoring and Recovery System](https://github.com/Princeton45/website-monitoring-python)
   - [Health Check: EC2 Status Checks](https://github.com/Princeton45/ec2-health-check)
