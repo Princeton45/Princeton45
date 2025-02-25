@@ -36,6 +36,10 @@
   - [Complete CI/CD Pipeline with Jenkins, Docker, and AWS EC2](https://github.com/Princeton45/jenkins-docker-ec2-cicd)
   - [CD - Deploying to AWS EKS (Kubernetes) Cluster via Jenkins Pipeline](https://github.com/Princeton45/jenkins-eks-cd-pipeline)
  
+- <b>Configuration Management with Ansible</b>
+
+
+ 
 - <b>Python Automation</b>
   - [Website Monitoring and Recovery System](https://github.com/Princeton45/website-monitoring-python)
   - [Health Check: EC2 Status Checks](https://github.com/Princeton45/ec2-health-check)
