@@ -37,8 +37,8 @@
   - [CD - Deploying to AWS EKS (Kubernetes) Cluster via Jenkins Pipeline](https://github.com/Princeton45/jenkins-eks-cd-pipeline)
  
 - <b>Monitoring with Prometheus</b>
-
- 
+  - [Installing Prometheus Stack in Kubernetes](https://github.com/Princeton45/install-prometheus-eks)
+  
 - <b>Configuration Management with Ansible</b>
   - [Ansible Integration in Jenkins (CD)](https://github.com/Princeton45/ansible-jenkins-integration)
   - [Automated Kubernetes Application Deployment](https://github.com/Princeton45/ansible-kubernetes-deployment)
