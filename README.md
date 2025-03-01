@@ -36,6 +36,9 @@
   - [Complete CI/CD Pipeline with Jenkins, Docker, and AWS EC2](https://github.com/Princeton45/jenkins-docker-ec2-cicd)
   - [CD - Deploying to AWS EKS (Kubernetes) Cluster via Jenkins Pipeline](https://github.com/Princeton45/jenkins-eks-cd-pipeline)
  
+- <b>Monitoring with Prometheus</b>
+
+ 
 - <b>Configuration Management with Ansible</b>
   - [Ansible Integration in Jenkins (CD)](https://github.com/Princeton45/ansible-jenkins-integration)
   - [Automated Kubernetes Application Deployment](https://github.com/Princeton45/ansible-kubernetes-deployment)
