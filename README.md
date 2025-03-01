@@ -37,6 +37,7 @@
   - [CD - Deploying to AWS EKS (Kubernetes) Cluster via Jenkins Pipeline](https://github.com/Princeton45/jenkins-eks-cd-pipeline)
  
 - <b>Configuration Management with Ansible</b>
+  - [Ansible Integration in Jenkins (CD)](https://github.com/Princeton45/ansible-jenkins-integration)
   - [Automated Kubernetes Application Deployment](https://github.com/Princeton45/ansible-kubernetes-deployment)
   - [Dynamic Inventory Configuration with Ansible and Terraform](https://github.com/Princeton45/dynamic-inventory-ec2)
   - [Automating Node.js Application Deployment](https://github.com/Princeton45/nodejs-ansible-deploy)
