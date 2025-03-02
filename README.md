@@ -37,6 +37,7 @@
   - [CD - Deploying to AWS EKS (Kubernetes) Cluster via Jenkins Pipeline](https://github.com/Princeton45/jenkins-eks-cd-pipeline)
  
 - <b>Monitoring with Prometheus</b>
+  - [Redis Monitoring with Prometheus and Grafana](https://github.com/Princeton45/monitor-3rd-party-app)
   - [Alerting Configuration for Kubernetes Microservices Application](https://github.com/Princeton45/config-alerting-prometheus)
   - [Installing Prometheus Stack in Kubernetes](https://github.com/Princeton45/install-prometheus-eks)
   
