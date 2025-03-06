@@ -31,6 +31,9 @@
   - [Setting up a Jenkins shared library](https://github.com/Princeton45/jenkins-shared-library)
   - [Auto-Triggered Jenkins Pipeline via GitHub Webhooks](https://github.com/Princeton45/jenkins-webhooks-trigger)
   - [Dynamically Incrementing Application Version in a Jenkins Pipeline](https://github.com/Princeton45/jenkins-dynamic-versioning)
+
+- <b>CI/CD with Gitlab</b>
+  - [Setting Up GitLab Runners: Local Windows & AWS EC2](https://github.com/Princeton45/local-aws-runner)
  
 - <b>AWS Services + CI/CD with Jenkins</b>
   - [Complete CI/CD Pipeline with Jenkins, Docker, and AWS EC2](https://github.com/Princeton45/jenkins-docker-ec2-cicd)
