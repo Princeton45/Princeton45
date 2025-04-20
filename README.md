@@ -34,7 +34,8 @@
 
 - <b>CI/CD with Gitlab</b>
   - [Setting Up GitLab Runners: Local Windows & AWS EC2](https://github.com/Princeton45/local-aws-runner)
- 
+  - [End-to-End GitLab CI/CD for Node.js: From Development to Production](https://github.com/Princeton45/gitlab-ci-nodejs-pipeline)
+
 - <b>AWS Services + CI/CD with Jenkins</b>
   - [Complete CI/CD Pipeline with Jenkins, Docker, and AWS EC2](https://github.com/Princeton45/jenkins-docker-ec2-cicd)
   - [CD - Deploying to AWS EKS (Kubernetes) Cluster via Jenkins Pipeline](https://github.com/Princeton45/jenkins-eks-cd-pipeline)
