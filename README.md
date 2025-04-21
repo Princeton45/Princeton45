@@ -33,7 +33,7 @@
   - [Dynamically Incrementing Application Version in a Jenkins Pipeline](https://github.com/Princeton45/jenkins-dynamic-versioning)
 
 - <b>CI/CD with Gitlab</b>
-  - [End-to-End GitLab CI/CD for Node.js: From Development to Production](https://github.com/Princeton45/gitlab-ci-nodejs-pipeline)
+  - [End-to-End GitLab CI/CD for Node.js: From Development to Production](https://gitlab.com/Princeton45/nodejs-gitlab-cicd-project)
   - [Setting Up GitLab Runners: Local Windows & AWS EC2](https://github.com/Princeton45/local-aws-runner)
 
 - <b>AWS Services + CI/CD with Jenkins</b>
