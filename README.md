@@ -36,6 +36,7 @@
 
   - [End-to-End GitLab CI/CD for Node.js: From Development to Production](https://gitlab.com/Princeton45/nodejs-gitlab-cicd-project)
   - [Comparing Microservice CI/CD: Monorepo vs. Polyrepo](https://gitlab.com/Princeton45/cicd-monorepo-polyrepo-microservice)
+  - [Deploy Microservices to Kubernetes cluster with Gitlab](https://gitlab.com/Princeton45/deploy-microservices-to-kubernetes-cluster-with-gitlab)
   - [Setting Up GitLab Runners: Local Windows & AWS EC2](https://github.com/Princeton45/local-aws-runner)
 
 - <b>AWS Services + CI/CD with Jenkins</b>
