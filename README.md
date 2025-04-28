@@ -1,5 +1,8 @@
 <h1>Hi, I'm Princeton! I am a Linux, Devops, DevSecOps, Cloud & Cloud Security Enthusiast.</a>
 
+<h2>☁︎ DevSecOps/Cloud Security Engineering Projects:</h2>
+
+
 <h2>☁︎ Devops/Cloud Engineering Projects:</h2>
 
 - <b>Serverless Architecture</b>
