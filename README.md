@@ -2,7 +2,40 @@
 
 <h2>☁︎ DevSecOps/Cloud Security Engineering Projects:</h2>
 
+- <b>CI/CD Pipeline Security & Automation</b>
   - [GitLeaks Integration for Secure Commits](https://gitlab.com/Princeton45/gitleaks-integration-for-secure-commits)
+ - project 2
+ - project 5
+ - project 9
+ - project 13
+ - project 15
+
+- <b>Vulnerability Management & Remediation</b>
+ - project 3
+ - project 10
+ - project 4
+
+- <b>Secure Cloud Infrastructure & Deployment</b>
+  - project 11
+  - project 8
+  - project 6
+  - project 7
+  - project 12
+
+- <b>Infrastructure as Code (IaC) & Security</b>
+  - project 14
+  - project 15
+    
+- <b>Cloud Monitoring, Compliance & Cost Management</b>
+  - project 16
+  - project 17
+  - project 18
+  - project 19
+
+- <b>Kubernetes Infrastructure Deployment</b>
+  - project 20
+
+
 
 <h2>☁︎ Devops/Cloud Engineering Projects:</h2>
 
