@@ -2,7 +2,7 @@
 
 <h2>☁︎ DevSecOps/Cloud Security Engineering Projects:</h2>
 
-  - [GitLeaks Integration for Secure Commits)](https://gitlab.com/Princeton45/gitleaks-integration-for-secure-commits)
+  - [GitLeaks Integration for Secure Commits](https://gitlab.com/Princeton45/gitleaks-integration-for-secure-commits)
 
 <h2>☁︎ Devops/Cloud Engineering Projects:</h2>
 
