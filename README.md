@@ -4,7 +4,7 @@
 
 - <b>CI/CD Pipeline Security & Automation</b>
   - [GitLeaks Integration for Secure Commits](https://gitlab.com/Princeton45/gitleaks-integration-for-secure-commits)
-  - project 2
+  - [Setting up SAST in GitLab CI with NJSScan & Semgrep](https://gitlab.com/Princeton45/setting-up-sast-in-gitlab-ci-with-njsscan-and-semgrep)
   - project 5
   - project 9
   - project 13
