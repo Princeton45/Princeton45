@@ -12,8 +12,8 @@
 
 - <b>Vulnerability Management & Remediation</b>
   - [Automating Security Scan Uploads to DefectDojo](https://gitlab.com/Princeton45/automating-security-scan-uploads-to-defectdojo)
+  - [Remediating Weak Cryptography and SQL Injection Vulnerabilities](https://gitlab.com/Princeton45/remediating-weak-cryptography-and-sql-injection-vulnerabilities#)
   - project 10
-  - project 4
 
 - <b>Secure Cloud Infrastructure & Deployment</b>
   - project 11
