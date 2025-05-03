@@ -11,7 +11,7 @@
   - project 15
 
 - <b>Vulnerability Management & Remediation</b>
-  - project 3
+  - [Automating Security Scan Uploads to DefectDojo](https://gitlab.com/Princeton45/automating-security-scan-uploads-to-defectdojo)
   - project 10
   - project 4
 
