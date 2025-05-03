@@ -38,6 +38,7 @@
 
 
 <h2>☁︎ Devops/Cloud Engineering Projects:</h2>
+
 - <b>Kubernetes on AWS - EKS</b>
   - [Complete CI/CD Pipeline with EKS and AWS ECR](https://github.com/Princeton45/eks-ecr-complete-pipeline) 
   - [Containerized E-commerce App on Kubernetes (AWS EKS) with CI/CD](https://github.com/Princeton45/Kubernetes-Resume-Challenge) 
