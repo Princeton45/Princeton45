@@ -18,7 +18,7 @@
 - <b>Secure Cloud Infrastructure & Deployment</b>
   - project 11
   - project 8
-  - project 6
+  - [Uploading Docker Images to AWS ECR via GitLab CI CD](https://gitlab.com/Princeton45/uploading-docker-images-to-aws-ecr-via-gitlab-ci-cd)
   - project 7
   - project 12
 
