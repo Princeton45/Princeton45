@@ -19,7 +19,7 @@
   - project 11
   - project 8
   - [Uploading Docker Images to AWS ECR via GitLab CI CD](https://gitlab.com/Princeton45/uploading-docker-images-to-aws-ecr-via-gitlab-ci-cd)
-  - project 7
+  - [Deploying an Application to AWS EC2 with GitLab CI/CD](https://gitlab.com/Princeton45/deploying-an-application-to-aws-ec2-with-gitlab-cicd)
   - project 12
 
 - <b>Infrastructure as Code (IaC) & Security</b>
