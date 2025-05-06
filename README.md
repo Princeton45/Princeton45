@@ -6,7 +6,7 @@
   - [GitLeaks Integration for Secure Commits](https://gitlab.com/Princeton45/gitleaks-integration-for-secure-commits)
   - [Setting up SAST in GitLab CI with NJSScan & Semgrep](https://gitlab.com/Princeton45/setting-up-sast-in-gitlab-ci-with-njsscan-and-semgrep)
   - [Automated SCA Scanning with RetireJS and DefectDojo Integration](https://gitlab.com/Princeton45/automated-sca-scanning-with-retirejs-and-defectdojo-integration)
-  - project 9
+  - [Scanning Docker Images with Trivy via GitLab CICD](https://gitlab.com/devsecops8960519/scanning-docker-images-with-trivy-via-gitlab-cicd)
   - project 13
   - project 15
 
@@ -17,7 +17,6 @@
 
 - <b>Secure Cloud Infrastructure & Deployment</b>
   - project 11
-  - project 8
   - [Uploading Docker Images to AWS ECR via GitLab CI CD](https://gitlab.com/Princeton45/uploading-docker-images-to-aws-ecr-via-gitlab-ci-cd)
   - [Deploying an Application to AWS EC2 with GitLab CI/CD](https://gitlab.com/Princeton45/deploying-an-application-to-aws-ec2-with-gitlab-cicd)
   - project 12
