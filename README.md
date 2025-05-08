@@ -16,10 +16,9 @@
   - [Automating Trivy Scan Uploads to DefectDojo](https://gitlab.com/devsecops8960519/automating-trivy-scan-uploads-to-defectdojo#)
 
 - <b>Secure Cloud Infrastructure & Deployment</b>
-  - project 11
   - [Uploading Docker Images to AWS ECR via GitLab CI CD](https://gitlab.com/Princeton45/uploading-docker-images-to-aws-ecr-via-gitlab-ci-cd)
   - [Deploying an Application to AWS EC2 with GitLab CI/CD](https://gitlab.com/Princeton45/deploying-an-application-to-aws-ec2-with-gitlab-cicd)
-  - project 12
+  - [Secure Application Deployment to EC2 using AWS SSM and GitLab](https://gitlab.com/devsecops8960519/secure-application-deployment-to-ec2-using-aws-ssm-and-gitlab)
 
 - <b>Infrastructure as Code (IaC) & Security</b>
   - project 14
