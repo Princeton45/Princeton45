@@ -7,7 +7,7 @@
   - [Setting up SAST in GitLab CI with NJSScan & Semgrep](https://gitlab.com/Princeton45/setting-up-sast-in-gitlab-ci-with-njsscan-and-semgrep)
   - [Automated SCA Scanning with RetireJS and DefectDojo Integration](https://gitlab.com/Princeton45/automated-sca-scanning-with-retirejs-and-defectdojo-integration)
   - [Scanning Docker Images with Trivy via GitLab CICD](https://gitlab.com/devsecops8960519/scanning-docker-images-with-trivy-via-gitlab-cicd)
-  - project 13
+  - [Automated DAST Scans with ZAP in GitLab CI/CD](https://gitlab.com/devsecops8960519/automated-dast-scans-with-zap-in-gitlab-cicd)
   - project 15
 
 - <b>Vulnerability Management & Remediation</b>
