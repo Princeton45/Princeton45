@@ -8,8 +8,7 @@
   - [Automated SCA Scanning with RetireJS and DefectDojo Integration](https://gitlab.com/Princeton45/automated-sca-scanning-with-retirejs-and-defectdojo-integration)
   - [Scanning Docker Images with Trivy via GitLab CICD](https://gitlab.com/devsecops8960519/scanning-docker-images-with-trivy-via-gitlab-cicd)
   - [Automated DAST Scans with ZAP in GitLab CI/CD](https://gitlab.com/devsecops8960519/automated-dast-scans-with-zap-in-gitlab-cicd)
-  - project 15
-
+  
 - <b>Vulnerability Management & Remediation</b>
   - [Automating Security Scan Uploads to DefectDojo](https://gitlab.com/Princeton45/automating-security-scan-uploads-to-defectdojo)
   - [Remediating Weak Cryptography and SQL Injection Vulnerabilities](https://gitlab.com/Princeton45/remediating-weak-cryptography-and-sql-injection-vulnerabilities#)
@@ -21,7 +20,7 @@
   - [Secure Application Deployment to EC2 using AWS SSM and GitLab](https://gitlab.com/devsecops8960519/secure-application-deployment-to-ec2-using-aws-ssm-and-gitlab)
 
 - <b>Infrastructure as Code (IaC) & Security</b>
-  - project 14
+  - [Automating AWS Infrastructure with Terraform](https://gitlab.com/devsecops8960519/automating-aws-infrastructure-with-terraform)
   - project 15
     
 - <b>Cloud Monitoring, Compliance & Cost Management</b>
