@@ -20,8 +20,9 @@
   - [Secure Application Deployment to EC2 using AWS SSM and GitLab](https://gitlab.com/devsecops8960519/secure-application-deployment-to-ec2-using-aws-ssm-and-gitlab)
 
 - <b>Infrastructure as Code (IaC) & Security</b>
+  - [Automated Security Scanning and Deployment for Infrastructure as Code with GitOps](https://gitlab.com/devsecops8960519/automated-security-scanning-and-deployment-for-infrastructure-as-code-with-gitops)
   - [Automating AWS Infrastructure with Terraform](https://gitlab.com/devsecops8960519/automating-aws-infrastructure-with-terraform)
-  - project 15
+  
     
 - <b>Cloud Monitoring, Compliance & Cost Management</b>
   - project 16
