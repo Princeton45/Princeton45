@@ -23,13 +23,6 @@
   - [Automated Security Scanning and Deployment for Infrastructure as Code with GitOps](https://gitlab.com/devsecops8960519/automated-security-scanning-and-deployment-for-infrastructure-as-code-with-gitops)
   - [Automating AWS Infrastructure with Terraform](https://gitlab.com/devsecops8960519/automating-aws-infrastructure-with-terraform)
   
-    
-- <b>Cloud Monitoring, Compliance & Cost Management</b>
-  - project 16
-  - project 17
-  - project 18
-  - project 19
-
 - <b>Kubernetes Infrastructure Deployment</b>
   - project 20
 
