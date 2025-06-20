@@ -1,6 +1,6 @@
 <h1>Hi, I'm Princeton! I am a Linux, IT Networking, Cloud & Cloud Security Enthusiast.</a>
 
-<h2>🖧 Network Automation Projects:</h2>
+<h2>🖧 Network Engineering & Automation Projects:</h2>
 
 
 <h2>☁︎ DevSecOps/Cloud Security Engineering Projects:</h2>
