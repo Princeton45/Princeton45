@@ -3,7 +3,7 @@
 <h2>🖧 Network Engineering & Automation Projects:</h2>
 
 - <b>Network Automation</b>
-  - [Telnet Network Automation Scripts](https://gitlab.com/Princeton45/gitleaks-integration-for-secure-commits)
+  - [Telnet Network Automation Scripts](https://github.com/Princeton45/telnet-network-automation-scripts)
 
 
 <h2>☁︎ DevSecOps/Cloud Security Engineering Projects:</h2>
