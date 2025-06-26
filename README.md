@@ -1,6 +1,7 @@
 <h1>Hi, I'm Princeton! I am a Linux, IT Networking, Cloud & Cloud Security Enthusiast.</a>
 
 <h2>🖧 Network Engineering & Automation Projects:</h2>
+  - [Telnet Network Automation Scripts](https://gitlab.com/Princeton45/gitleaks-integration-for-secure-commits)
 
 
 <h2>☁︎ DevSecOps/Cloud Security Engineering Projects:</h2>
