@@ -3,7 +3,7 @@
 <h2>🖧 Network Automation Projects:</h2>
 
 - <b>Network Automation</b>
-  - [Network Automation Scripts](https://github.com/Princeton45/telnet-network-automation-scripts)
+  - [Telnet Automation Scripts](https://github.com/Princeton45/network-automation-scripts/tree/main/Telnet%20Scripts)
 
 
 <h2>☁︎ DevSecOps/Cloud Security Engineering Projects:</h2>
