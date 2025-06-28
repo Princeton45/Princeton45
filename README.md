@@ -3,6 +3,7 @@
 <h2>🖧 Network Automation Projects:</h2>
 
 - <b>Network Automation</b>
+  - [Netmiko Automation Scripts](https://github.com/Princeton45/network-automation-scripts/tree/main/Telnet%20Scripts)
   - [Telnet Automation Scripts](https://github.com/Princeton45/network-automation-scripts/tree/main/Telnet%20Scripts)
 
 
