@@ -1,9 +1,9 @@
 <h1>Hi, I'm Princeton! I am a Linux, IT Networking, Cloud & Cloud Security Enthusiast.</a>
 
-<h2>🖧 Network Engineering & Automation Projects:</h2>
+<h2>🖧 Network Automation Projects:</h2>
 
 - <b>Network Automation</b>
-  - [Telnet Network Automation Scripts](https://github.com/Princeton45/telnet-network-automation-scripts)
+  - [Network Automation Scripts](https://github.com/Princeton45/telnet-network-automation-scripts)
 
 
 <h2>☁︎ DevSecOps/Cloud Security Engineering Projects:</h2>
