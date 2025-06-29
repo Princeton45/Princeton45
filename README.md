@@ -4,8 +4,8 @@
 
 - <b>Network Automation</b>
   - [Netmiko Automation Scripts](https://github.com/Princeton45/network-automation-scripts/tree/main/Netmiko%20scripts)
+  - [NAPALM Automation Scripts](https://github.com/Princeton45/network-automation-scripts/tree/main/NAPALM%20scripts)
   - [Telnet Automation Scripts](https://github.com/Princeton45/network-automation-scripts/tree/main/Telnet%20Scripts)
-
 
 <h2>☁︎ DevSecOps/Cloud Security Engineering Projects:</h2>
 
