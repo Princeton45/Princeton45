@@ -1,4 +1,10 @@
 <h1>Hi, I'm Princeton! I am a Linux, IT Networking, Cloud & Cloud Security Enthusiast.</a>
+ 
+ <h2>🖧 System Administration Projects:</h2>
+ 
+  - [SCCM/MECM Network](https://github.com/Princeton45/SCCM-MECM-Network)
+  - [Enterprise pfSense Lab: Configuring Routing, Firewalls, DMZ, & Network Services](https://github.com/Princeton45/Pfsense-Network)
+  - [Deploying Active Directory, GPOs, and Redundant Server Services](https://github.com/Princeton45/network-automation-scripts/tree/main/Telnet%20Scripts)
 
 <h2>🖧 Network Automation Projects:</h2>
 
@@ -90,7 +96,7 @@
 - <b>Artifact Repository Manager with Nexus</b>
   - [Running Nexus on Droplet and Publishing Artifact to Nexus](https://github.com/Princeton45/nexus-droplet-setup) 
   - [Docker Repository on Nexus and Pushing to it](https://github.com/Princeton45/nexus-docker-repo-setup) 
-  - [Deploying Nexus as a Docker Container on DigitalOcean](https://github.com/Princeton45/nexus-docker-container) 
+  - [Deploying Nexus as a Docker Container on DigitalOcean](https://github.com/Princeton45/nexus-docker-container)
 
   
 <h2> 🤳 Connect with me:</h2>
