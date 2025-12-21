@@ -4,7 +4,7 @@
  
   - [SCCM/MECM Network](https://github.com/Princeton45/SCCM-MECM-Network)
   - [Enterprise pfSense Lab: Configuring Routing, Firewalls, DMZ, & Network Services](https://github.com/Princeton45/Pfsense-Network)
-  - [Deploying Active Directory, GPOs, and Redundant Server Services](https://github.com/Princeton45/network-automation-scripts/tree/main/Telnet%20Scripts)
+  - [Deploying Active Directory, GPOs, and Redundant Server Services](https://github.com/Princeton45/ACME-Network)
 
 <h2>🖧 Network Automation Projects:</h2>
 
