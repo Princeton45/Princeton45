@@ -1,6 +1,6 @@
 <h1>Hi, I'm Princeton! I am a Linux, IT Networking, Cloud & Cloud Security Enthusiast.</a>
  
- <h2>🖧 System Administration Projects:</h2>
+ <h2>🖧 System/Network Administration Projects:</h2>
  
   - [SCCM/MECM Network](https://github.com/Princeton45/SCCM-MECM-Network)
   - [Enterprise pfSense Lab: Configuring Routing, Firewalls, DMZ, & Network Services](https://github.com/Princeton45/Pfsense-Network)
