@@ -1,4 +1,4 @@
-# 🌐 Network Administration & Automation
+# 🌐 Networking & Automation
 
 [⬅ Back to Home](../README.md)
 
@@ -6,6 +6,9 @@
 - [Netmiko Automation Scripts](https://github.com/Princeton45/network-automation-scripts/tree/main/Netmiko%20scripts)
 - [NAPALM Automation Scripts](https://github.com/Princeton45/network-automation-scripts/tree/main/NAPALM%20scripts)
 - [Telnet Automation Scripts](https://github.com/Princeton45/network-automation-scripts/tree/main/Telnet%20Scripts)
+
+ ### 🛡️ Network Security
+
 
 ### 🖥️ System/Network Administration
 - [SCCM/MECM Network](https://github.com/Princeton45/SCCM-MECM-Network)
