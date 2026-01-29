@@ -1,5 +1,49 @@
-<h1>Hi, I'm Princeton! I am a Linux, IT Networking, Cloud & Cloud Security Enthusiast.</a>
- 
+# <h1>Hi, I'm Princeton! 🚀</h1>
+
+### Linux, Networking, Cloud & Cloud Security Enthusiast.
+
+## 📂 Project Portfolios
+*Select a category to view my specific projects and technical documentation.*
+
+| Category | Description |
+| :--- | :--- |
+| [**🌐 Networking & Automation**](./networking/README.md) | System Admin, pfSense, Netmiko, and NAPALM automation. |
+| [**🛡️ Cloud Security & DevSecOps**](./devsecops/README.md) | GitLab CI/CD Security, Vulnerability Management, and Secure IaC. |
+| [**☁️ DevOps & Cloud Engineering**](./devops-cloud/README.md) | AWS, Kubernetes, Terraform, Jenkins, and Ansible. |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  <h2>🖧 System/Network Administration Projects:</h2>
  
   - [SCCM/MECM Network](https://github.com/Princeton45/SCCM-MECM-Network)
