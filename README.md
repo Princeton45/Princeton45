@@ -8,7 +8,7 @@
 
 | Category | Description |
 | :--- | :--- |
-| [**🌐 Networking & Automation**](./networking/README.md) | System Admin, Palo Alto NGFW, pfSense, Netmiko, and NAPALM automation. |
+| [**🌐 Networking & Automation**](./networking/README.md) | System Admin, pfSense, Netmiko, and NAPALM automation. |
 | [**🛡️ Cloud Security & DevSecOps**](./devsecops/README.md) | GitLab CI/CD Security, Vulnerability Management, and Secure IaC. |
 | [**☁️ DevOps & Cloud Engineering**](./devops-cloud/README.md) | AWS, Kubernetes, Terraform, Jenkins, and Ansible. |
 
