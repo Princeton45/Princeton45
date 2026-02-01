@@ -8,6 +8,7 @@
 - [Telnet Automation Scripts](https://github.com/Princeton45/network-automation-scripts/tree/main/Telnet%20Scripts)
 
 ### 🛡️ Network Security
+- [Network Perimeter Defense: Palo Alto NGFW, NAT, & OSPF Deployment](https://github.com/Princeton45/perimeter-defense-palo-alto-nat-ospf)
 - [Enterprise pfSense Lab: Configuring Routing, Firewalls, DMZ, & Network Services](https://github.com/Princeton45/Pfsense-Network)
   
 ### 🖥️ System/Network Administration
