@@ -1,6 +1,6 @@
 # <h1>Hi, I'm Princeton! 🚀</h1>
 
-### Linux, Networking & Cloud Enthusiast.
+### Linux, Networking & Cloud Computing Enthusiast.
 ---
 
 ## 📂 Project Portfolios
