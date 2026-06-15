@@ -3,9 +3,7 @@
 [⬅ Back to Home](../README.md)
 
 ### 🤖 Network Automation (Python)
-- [Netmiko Automation Scripts](https://github.com/Princeton45/network-automation-scripts/tree/main/Netmiko%20scripts)
-- [NAPALM Automation Scripts](https://github.com/Princeton45/network-automation-scripts/tree/main/NAPALM%20scripts)
-- [Telnet Automation Scripts](https://github.com/Princeton45/network-automation-scripts/tree/main/Telnet%20Scripts)
+- [Fill in with NetDevOps projects]
 
 ### 🛡️ Network Security
 - [Zero Trust Subinterface Configuration](https://github.com/Princeton45/zero-trust-sub-config)
