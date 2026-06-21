@@ -2,7 +2,7 @@
 
 [⬅ Back to Home](../README.md)
 
-### 🤖 Network Automation (Python)
+### 🤖 NetDevOps
 - [Fill in with NetDevOps projects]
 
 ### 🛡️ Network Security
