@@ -3,7 +3,7 @@
 [⬅ Back to Home](../README.md)
 
 ### 🤖 NetDevOps
-- [Fill in with NetDevOps projects]
+- [Automated EVPN-VXLAN fabric deployment on Cisco NX-OS using NetBox as a Source of Truth, Ansible, and GitOps pipelines.](https://github.com/Princeton45/evpn-vxlan-gitops)
 
 ### 🛡️ Network Security
 - [Zero Trust Subinterface Configuration](https://github.com/Princeton45/zero-trust-sub-config)
