@@ -8,7 +8,7 @@
 
 | Category | Description |
 | :--- | :--- |
-| [**🌐 Networking & Automation**](./networking/README.md) | Palo Alto NGFW, Routing/Switching, pfSense, Windows Server Administration. |
+| [**🌐 Networking & Automation**](./networking/README.md) | Network Automation,Palo Alto NGFW, Routing/Switching, pfSense, Windows Server Administration. |
 | [**🛡️ Cloud Security & DevSecOps**](./devsecops/README.md) | GitLab CI/CD Security, Vulnerability Management, and Secure IaC. |
 | [**☁️ DevOps & Cloud Engineering**](./devops-cloud/README.md) | AWS, Kubernetes, Terraform, Jenkins, and Ansible. |
 
