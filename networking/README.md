@@ -4,6 +4,7 @@
 
 ### 🤖 NetDevOps
 - [Automated EVPN-VXLAN fabric deployment on Cisco NX-OS using NetBox as a Source of Truth, Ansible, and GitOps pipelines.](https://github.com/Princeton45/evpn-vxlan-gitops)
+- [Closed Loop WAN Failover Automation](https://github.com/Princeton45/Closed-Loop-WAN-Failover-Automation)
 
 ### 🛡️ Network Security
 - [Zero Trust Subinterface Configuration](https://github.com/Princeton45/zero-trust-sub-config)
